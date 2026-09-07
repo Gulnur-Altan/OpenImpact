@@ -1,0 +1,6 @@
+{
+  "name": "OpenImpact",
+  "description": "Transparent grassroots storyteller and generosity ledger empowering small nonprofits and community donors on the International Day of Charity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
